@@ -2,6 +2,12 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.0.
 
+![Counter Page](counter.png)
+*Counter Buttons and Text Input*
+
+![Todos](todo.png)
+*Lorem ipsum todo list from API, check box crosses out and highlights item*
+
 ## Development server
 
 To start a local development server, run:
